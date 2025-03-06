@@ -7,13 +7,13 @@
 ---
 
 ## 🌟 About Me  
-- 💡 **Innovative Full-Stack Developer & Open-Source Enthusiast**  
-- 🔭 Currently working on **cutting-edge projects in AI, Web3, and Mobile Development**  
-- 🌱 Learning **Machine Learning & Blockchain Development**  
+- 💡 **Innovative Full-Stack Developer & Teach-Lead**  
+- 🔭 Currently working on **cutting-edge projects in Backend Development, Web3, and Mobile Development**  
+- 🌱 Learning **Machine Learning & Blockchain Development & System Design**  
 - 🤝 Open to collaborations on **open-source projects & startups**  
 - 🎯 Passionate about **creating seamless user experiences**  
 - 🎨 I also love **design, animations, and UI/UX**  
-- 📫 Reach me at **[Your Email or Twitter]**  
+- 📫 Reach me at **alihassan861@gmail.com & Ali101H@icloud.com**  
 - ⚡ Fun fact: **"I turn ☕ into 🔥 code!"**  
 
 ---
@@ -54,12 +54,12 @@
 </p>
 
 ---
-
+<!--
 ## 📂 Recent Projects  
 🚀 [**Project 1**](https://github.com/a95h/project1) - **AI-powered Web Scraper**  
 🌍 [**Project 2**](https://github.com/a95h/project2) - **Cross-platform Mobile App using Flutter**  
 📱 [**Project 3**](https://github.com/a95h/project3) - **E-commerce Website with Next.js**  
-
+-->
 ---
 
 ## 🌟 Favorite Quote  
@@ -69,9 +69,6 @@
 
 ## 🔗 Connect with Me  
 <p align="center">
-  <a href="https://twitter.com/a95h">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/a95h">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
   </a>
