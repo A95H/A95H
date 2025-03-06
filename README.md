@@ -1,36 +1,28 @@
-<!-- Welcome Section -->
-<h1 align="center">Hi there, I'm A95H 👋</h1>
+<!-- Stylish Header -->
+<h1 align="center">Hey there, I'm Ali! 👋🚀</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Enthusiast+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+%26+Web+App+Enthusiast+%F0%9F%93%B1;Open-Source+Contributor+%E2%9C%A8;Tech+Explorer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%8E%93" />
 </p>
 
 ---
 
-## 🚀 About Me  
-- 🔭 I’m currently working on **exciting new projects in [Your Expertise]**  
-- 🌱 I’m learning **[Technology you're learning]**  
-- 👯 I’m looking to collaborate on **open-source projects & innovative ideas**  
-- 🎯 Goal: **Build impactful tech solutions**  
-- 💬 Ask me about **[Your Expertise Areas]**  
+## 🌟 About Me  
+- 💡 **Innovative Full-Stack Developer & Open-Source Enthusiast**  
+- 🔭 Currently working on **cutting-edge projects in AI, Web3, and Mobile Development**  
+- 🌱 Learning **Machine Learning & Blockchain Development**  
+- 🤝 Open to collaborations on **open-source projects & startups**  
+- 🎯 Passionate about **creating seamless user experiences**  
+- 🎨 I also love **design, animations, and UI/UX**  
 - 📫 Reach me at **[Your Email or Twitter]**  
-- ⚡ Fun fact: **[Something interesting about you]**  
+- ⚡ Fun fact: **"I turn ☕ into 🔥 code!"**  
 
 ---
 
 ## 🛠️ Tech Stack  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,flutter,dart,tailwind,dotnet,mongodb,postgres,docker,github,linux,vscode,git" />
+</p>
 
 ---
 
@@ -42,25 +34,55 @@
 
 ---
 
-## 🌟 Top Languages  
+## 🌍 Top Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a95h&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
+## 🏆 Trophies & Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=a95h&theme=radical&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🔥 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=a95h&theme=redical" />
+</p>
+
+---
+
 ## 📂 Recent Projects  
-🚀 [**Project 1**](https://github.com/a95h/project1) - **Short description of project**  
-🌍 [**Project 2**](https://github.com/a95h/project2) - **Short description of project**  
-📱 [**Project 3**](https://github.com/a95h/project3) - **Short description of project**  
+🚀 [**Project 1**](https://github.com/a95h/project1) - **AI-powered Web Scraper**  
+🌍 [**Project 2**](https://github.com/a95h/project2) - **Cross-platform Mobile App using Flutter**  
+📱 [**Project 3**](https://github.com/a95h/project3) - **E-commerce Website with Next.js**  
+
+---
+
+## 🌟 Favorite Quote  
+> "First, solve the problem. Then, write the code." – John Johnson  
 
 ---
 
 ## 🔗 Connect with Me  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/a95h)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/a95h)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/a95h)  
+<p align="center">
+  <a href="https://twitter.com/a95h">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/a95h">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="https://github.com/a95h">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
+  </a>
+  <a href="https://dev.to/a95h">
+    <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-💡 **"Code, Create, Inspire!"** 🚀  
+🔥 **"Code with Passion, Innovate with Purpose!"** 🚀  
