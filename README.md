@@ -16,6 +16,10 @@
 - 📫 Reach me at **alihassan861@gmail.com & Ali101H@icloud.com**  
 - ⚡ Fun fact: **"I turn ☕ into 🔥 code!"**  
 
+- 🔓 Public Repositories: 23
+- 🔒 Private Repositories: 40
+- 📦 Total Repositories: 63
+
 ---
 
 ## 🛠️ Tech Stack  
@@ -75,9 +79,11 @@
   <a href="https://github.com/a95h">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />
   </a>
+  <!--
   <a href="https://dev.to/a95h">
     <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
+  -->
 </p>
 
 ---
