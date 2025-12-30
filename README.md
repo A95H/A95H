@@ -11,13 +11,13 @@ Senior Software Engineer • Mobile Team Lead • Backend & Solution Architect
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+%26+Web+App+Enthusiast+%F0%9F%93%B1;Open-Source+Contributor+%E2%9C%A8;Tech+Explorer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%8E%93" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Senior+Software+Engineer+%F0%9F%9A%80;Mobile+%26+Web+App+Enthusiast+%F0%9F%93%B1;Backend+and+Solution+Architect+%E2%9C%A8;Tech+Explorer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%8E%93" />
 </p>
 
 ---
 
 ## 🌟 About Me  
-- 💡 **Innovative Full-Stack Developer & Teach-Lead**  
+- 💡 **Innovative Senior Software Engineer & Teach-Lead**  
 - 🔭 Currently working on **cutting-edge projects in Backend Development, Web3, and Mobile Development**  
 - 🌱 Learning **Machine Learning & Blockchain Development & System Design**  
 - 🤝 Open to collaborations on **open-source projects & startups**  
