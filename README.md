@@ -111,7 +111,9 @@ Senior Software Engineer • Mobile Team Lead • Backend & Solution Architect
 
 ## 🔥 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=a95h&theme=redical" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=a95h&theme=github-compact&hide_border=true"
+  />
 </p>
 
 ---
