@@ -1,5 +1,15 @@
 <!-- Stylish Header -->
 <h1 align="center">Hey there, I'm Ali! 👋🚀</h1>
+<h3 align="center">
+Senior Software Engineer • Mobile Team Lead • Backend & Solution Architect
+</h3>
+
+<p align="center">
+  <em>
+    Building high-performance mobile apps, scalable backend systems, and clean architectures that survive real production.
+  </em>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%F0%9F%9A%80;Mobile+%26+Web+App+Enthusiast+%F0%9F%93%B1;Open-Source+Contributor+%E2%9C%A8;Tech+Explorer+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%8E%93" />
 </p>
@@ -17,15 +27,62 @@
 - ⚡ Fun fact: **"I turn ☕ into 🔥 code!"**  
 
 - 🔓 Public Repositories: 23
-- 🔒 Private Repositories: 40
-- 📦 Total Repositories: 63
+- 🔒 Private Repositories: 60
+- 📦 Total Repositories: 83
 
 ---
+
+## 🧠 What I Do Best  
+
+### 📱 Mobile Development (Flutter)
+- High-performance **iOS & Android apps** from a single codebase
+- Pixel-perfect implementation from **Figma designs**
+- Fintech-grade focus on **security, performance, and reliability**
+- Clean Architecture with strong separation of concerns
+- Long-term maintainability and scalability
+
+### 🧩 Backend & Architecture (.NET)
+- Designing **RESTful APIs** and backend services using **.NET**
+- Microservices, modular monoliths, and hybrid architectures
+- Authentication, authorization, and secure data handling
+- PostgreSQL & MongoDB for transactional and analytical workloads
+- RabbitMQ and async workflows for scalable systems
+
+### 🏛️ System Design & Leadership
+- Translating business requirements into **technical architecture**
+- Leading mobile teams and mentoring developers
+- Enforcing coding standards, reviews, and clean workflows
+- Production-first mindset (monitoring, deployment, support)
+
+---
+
+## 🔐 Technical Capabilities  
+
+- 🧠 **State Management**: Bloc, Provider, Riverpod  
+- 🔥 **Firebase**: Auth, Firestore, Analytics, Messaging  
+- 🌐 **APIs**: Secure RESTful integrations  
+- 🔗 **IoT**: Bluetooth device communication  
+- 🧪 **Testing**: Unit & widget testing  
+- 🚀 **CI/CD**: Git workflows, automated builds  
+- 📦 **Deployment**: App Store & Play Store (certs, signing, compliance)
+
+---
+
+## 🏆 Professional Highlights  
+
+- 🚀 Delivered multiple **fintech and production-critical mobile apps**
+- 🏗️ Designed **scalable backend architectures** using .NET
+- 📱 Led end-to-end mobile development from idea to store release
+- 🧩 Built clean, reusable architectures used across projects
+- 👥 Led and mentored mobile development teams
+
+---
+
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,flutter,dart,tailwind,dotnet,mongodb,postgres,docker,github,linux,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,flutter,dart,js,ts,nodejs,react,nextjs,swift,tailwind,mongodb,postgres,docker,github,linux,vscode,visualstudio,git" />
 </p>
 
 ---
