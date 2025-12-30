@@ -45,7 +45,7 @@ Senior Software Engineer • Mobile Team Lead • Backend & Solution Architect
 - Designing **RESTful APIs** and backend services using **.NET**
 - Microservices, modular monoliths, and hybrid architectures
 - Authentication, authorization, and secure data handling
-- PostgreSQL & MongoDB for transactional and analytical workloads
+- PostgreSQL & SQL Server & MongoDB for transactional and analytical workloads
 - RabbitMQ and async workflows for scalable systems
 
 ### 🏛️ System Design & Leadership
