@@ -24,7 +24,7 @@ Senior Software Engineer • Mobile Team Lead • Backend & Solution Architect
 - 🎯 Passionate about **creating seamless user experiences**  
 - 🎨 I also love **design, animations, and UI/UX**  
 - 📫 Reach me at **alihassan861@gmail.com & Ali101H@icloud.com**  
-- ⚡ Fun fact: **"I turn ☕ into 🔥 code!"**  
+- ⚡ Fun fact: **"I turn ☕ into code 👨‍💻!"**  
 
 - 🔓 Public Repositories: 23
 - 🔒 Private Repositories: 72
