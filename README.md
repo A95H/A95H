@@ -27,8 +27,8 @@ Senior Software Engineer • Mobile Team Lead • Backend & Solution Architect
 - ⚡ Fun fact: **"I turn ☕ into 🔥 code!"**  
 
 - 🔓 Public Repositories: 23
-- 🔒 Private Repositories: 60
-- 📦 Total Repositories: 83
+- 🔒 Private Repositories: 72
+- 📦 Total Repositories: 95
 
 ---
 
